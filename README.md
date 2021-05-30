@@ -26,4 +26,4 @@ You can ask me about anything related to CTFs, Pentesting and Owasp TOP 10.
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ayushk58)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ayushk58&theme=dark)
