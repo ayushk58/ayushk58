@@ -4,7 +4,7 @@
 Currently a Bug-Bounty Hunter and CTF player, I am from KIIT University, india
 
 Beside's pentesting, I enjoy music🎧, cooking food and taking my dog out for walks🌱
-<img align="right"  src="https://www.youtube.com/watch?v=HeOLas58buw" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/k4LO47aT4Gi2I/giphy.gif" />
 
 🔭 I’m currently focused on ...
 
