@@ -1,4 +1,5 @@
 ### Hi there 👋I'm Ayush
+![](https://komarev.com/ghpvc/?username=ayushk58&style=flat-square)
 
 Currently a Bug-Bounty Hunter and CTF player, I am from KIIT University, india
 
