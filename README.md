@@ -1,22 +1,28 @@
-### Hi there 👋
+### Hi there 👋I'm Ayush
 
-<!--
-**ayushk58/ayushk58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a Bug-Bounty Hunter and CTF player, I am from KIIT University, india
 
-Here are some ideas to get you started:
+Beside's pentesting, I enjoy music🎧, cooking food and taking my dog out for walks🌱
+<img align="right"  src="https://www.youtube.com/watch?v=HeOLas58buw" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently focused on ...
+
+1. Developing tools for XSS, SSTI, SSRF enumeration
+2. Learning about various techniques to escalate priviliges.
+3. Reading Bug-Bounty reports
+
+💬 Ask me about ...
+
+You can ask me about anything related to CTFs, Pentesting and Owasp TOP 10.
+
+ ⚡ Fun fact: ...
+ 
+ I can be as mean as I am nice.
+ 
+
+📫 How to reach me: ayuhk1700@gmail.com
 
 
 
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ayushk58)
