@@ -18,7 +18,7 @@ You can ask me about anything related to CTFs, Pentesting and Owasp TOP 10.
 
  ⚡ Fun fact: ...
  
- I can be as mean as I am nice.
+ The Mona Lisa has no eyebrows
  
 
 📫 How to reach me: ayuhk1700@gmail.com
