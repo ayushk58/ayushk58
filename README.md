@@ -1,20 +1,20 @@
 ### Hi there 👋I'm Ayush
 ![](https://komarev.com/ghpvc/?username=ayushk58&style=flat-square)
 
-Currently a Bug-Bounty Hunter and CTF player, I am from KIIT University, india
+Former Bug-Bounty Hunter and CTF player turned full time copywriter + SEO Consultant. 
 
-Beside's pentesting, I enjoy music🎧, cooking food and taking my dog out for walks🌱
+Beside's pentesting & working , I enjoy music🎧, cooking food and taking my dog out for walks🌱
 <img align="right" alt="GIF" src="https://media.giphy.com/media/k4LO47aT4Gi2I/giphy.gif" />
 
 🔭 I’m currently focused on ...
 
 1. Developing tools for XSS, SSTI, SSRF enumeration
 2. Learning about various techniques to escalate priviliges.
-3. Reading Bug-Bounty reports
+3. Running my agency.
 
 💬 Ask me about ...
 
-You can ask me about anything related to CTFs, Pentesting and Owasp TOP 10.
+You can ask me about anything related to CTFs, Pentesting, Owasp TOP 10, Copywriting & SEO.
 
  ⚡ Fun fact: ...
  
