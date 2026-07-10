@@ -1,9 +1,10 @@
 ### Hi there 👋I'm Ayush
 ![](https://komarev.com/ghpvc/?username=ayushk58&style=flat-square)
 
-Former Bug-Bounty Hunter and CTF player turned full time copywriter + SEO Consultant. 
+Former Bug-Bounty Hunter and CTF player turned full-time copywriter + SEO consultant. I like building workflows for my work, going to the gym, traveling, and trying out new experiences. Besides that, I enjoy music 🎧, cooking food, and taking my dog out for walks.
 
-Beside's pentesting & working , I enjoy music🎧, cooking food and taking my dog out for walks🌱
+I run **[Writingaid.co](https://writingaid.co)** — an SEO and copywriting agency that helps brands rank, convert, and scale with search-first strategy and sharp copy. **[Work with us →](https://writingaid.co)**
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/k4LO47aT4Gi2I/giphy.gif" />
 
 🔭 I’m currently focused on ...
